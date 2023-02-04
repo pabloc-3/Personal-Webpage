@@ -4,6 +4,6 @@ This is where I want to begin loading my personal work as I grow as a profession
 
 This is markdown??
 
-|name            | email           |
-|:---            |:----        |
+|name           | email           |
+|:---         |:----        |
 |Pablo Castaneda | <castanedap1995@gmail.com> |
